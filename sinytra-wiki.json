@@ -1,0 +1,9 @@
+{
+  "schema": "1",
+  "id": "purelog",
+  "modid": "purelog",
+  "platforms": {
+    "curseforge": "purelog",
+    "modrinth": "purelog"
+  }
+}
