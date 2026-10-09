@@ -1,0 +1,182 @@
+PureLog Mod License v1.0
+Copyright (c) 2026 ACE. All Rights Reserved.
+
+================================================================
+DEUTSCHE FASSUNG
+================================================================
+
+1. GELTUNGSBEREICH
+
+Diese Lizenz gilt fuer die PureLog-Minecraft-Mod (die "Mod"),
+einschliesslich allen Quellcodes, kompilierten Binaerdateien,
+Assets und Dokumentation, AUSSER dort, wo ausdruecklich eine
+andere Lizenz angegeben ist (siehe Abschnitt 5, API-Lizenz).
+
+2. SPIELRECHTE (WAS DU DARFST)
+
+Jeder Nutzer, der Minecraft legal erworben hat, darf:
+
+  a) Die Mod auf einem Client oder Server installieren.
+  b) Minecraft mit installierter Mod spielen, ohne Einschraenkung.
+  c) Videos aufnehmen, streamen oder Inhalte mit der Mod erstellen.
+  d) Diese Inhalte monetarisieren (YouTube, Twitch, Sponsoring usw.).
+  e) Die Mod in ein Modpack aufnehmen, sofern:
+       - das Modpack ueber eine anerkannte Plattform verteilt wird
+         (CurseForge, Modrinth oder vergleichbar);
+       - die Mod nicht als eigenstaendiges Produkt verkauft wird;
+       - der Original-Download-Link der Mod nach Moeglichkeit
+         erhalten bleibt.
+  f) Die Mod auf einem monetarisierten Minecraft-Server nutzen,
+     sofern Spieler die Mod weiterhin kostenlos aus einer
+     offiziellen Quelle beziehen koennen.
+
+3. EINSCHRAENKUNGEN (WAS DU NICHT DARFST)
+
+Ohne vorherige schriftliche Erlaubnis des Urhebers darfst du:
+
+  a) Die Mod NICHT dekompilieren, zurueckentwickeln oder
+     veraendern, ausser soweit gesetzlich ausdruecklich erlaubt.
+  b) Die .jar-Dateien, den Quellcode oder die Assets der Mod
+     NICHT auf einer anderen als in Abschnitt 2(e) genannten
+     Plattform weiterverbreiten.
+  c) KEINE veraenderten Versionen, Forks, Ports oder
+     Weiterentwicklungen der Mod veroeffentlichen.
+  d) KEINE Assets (Texturen, Sounds, Logos, Texte) fuer ein
+     anderes Projekt entnehmen.
+  e) Die Mod selbst NICHT verkaufen, unterlizenzieren oder
+     hinter eine Bezahlschranke stellen.
+  f) Die Mod oder ihre Assets NICHT als eigene Arbeit ausgeben.
+  g) Den Namen PureLog oder die Marke NICHT in einer Weise
+     verwenden, die eine offizielle Zugehoerigkeit oder
+     Unterstuetzung suggeriert.
+
+Die Tatsache, dass eine Minecraft-Version nicht mehr unterstuetzt
+wird oder die Entwicklung verlangsamt oder eingestellt wurde,
+gewaehrt NICHT automatisch das Recht, die Mod weiterzuverbreiten,
+zu portieren oder zu uebernehmen.
+
+4. HAFTUNG
+
+DIE MOD WIRD "WIE BESEHEN" BEREITGESTELLT, OHNE JEGLICHE
+GEWAEHRLEISTUNG, WEDER AUSDRUECKLICH NOCH STILLSCHWEIGEND. DER
+URHEBER UEBERNIMMT KEINE VERANTWORTUNG FUER SCHAEDEN, DIE AUS
+DER NUTZUNG ODER DEM MISSBRAUCH DER MOD ENTSTEHEN. DIE MOD
+VERAENDERT GRUNDLEGENDE TEILE VON MINECRAFT; NUTZUNG AUF
+EIGENE GEFAHR.
+
+Diese Lizenz hebt keine Rechte auf und schraenkt keine
+Verpflichtungen ein, die durch die Minecraft-Endbenutzer-
+Lizenzvereinbarung (EULA) oder durch Lizenzen von
+Drittanbieter-Abhaengigkeiten der Mod entstehen.
+
+5. API-LIZENZ (SEPARAT)
+
+Die Pakete unter `de.ace.purelog.api.*` (die "API") stehen
+unter der MIT-Lizenz. Eine Kopie liegt in `LICENSE-API.md`.
+
+Das bedeutet:
+  - Jeder darf die API nutzen, um Addons, Integrationen oder
+    abgeleitete Werke zu bauen, die mit PureLog interagieren.
+  - Die API ist derzeit kostenlos.
+  - Der Urheber behaelt sich das Recht vor, fuer ZUKUENFTIGE
+    Versionen der API eine Lizenzgebuehr einzufuehren. Bereits
+    unter MIT veroeffentlichte Versionen bleiben unter MIT.
+
+Diese API-Lizenz gilt NICHT fuer andere Teile der Mod. Der
+gesamte Code ausserhalb der API bleibt All Rights Reserved,
+wie oben beschrieben.
+
+6. ANFRAGEN ZU GENEHMIGUNGEN
+
+Fuer Genehmigungen, die von dieser Lizenz nicht abgedeckt sind
+(z. B. Weiterverbreitung, Portierung, Asset-Wiederverwendung,
+kommerzielle API-Lizenzierung), kontaktiere den Urheber ueber
+die offizielle Projektseite der Mod.
+
+================================================================
+ENGLISH VERSION
+================================================================
+
+1. SCOPE
+
+This license applies to the PureLog Minecraft mod (the "Mod"),
+including all source code, compiled binaries, assets, and
+documentation, EXCEPT where a separate license is explicitly
+stated (see Section 5, API License).
+
+2. PLAY RIGHTS (WHAT YOU MAY DO)
+
+Any user who has legally acquired Minecraft may:
+
+  a) Install the Mod on a client or server.
+  b) Play Minecraft with the Mod installed, without restriction.
+  c) Record videos, stream, or create content featuring the Mod.
+  d) Monetize that content (YouTube, Twitch, sponsorships, etc.).
+  e) Include the Mod in a modpack, provided that:
+       - the modpack is distributed through an approved platform
+         (CurseForge, Modrinth, or similar);
+       - the Mod is not sold as a standalone product;
+       - the Mod's original download link is preserved where
+         reasonably possible.
+  f) Use the Mod on a monetized Minecraft server, provided that
+     players can still obtain the Mod freely from an official
+     source.
+
+3. RESTRICTIONS (WHAT YOU MAY NOT DO)
+
+Without prior written permission from the copyright holder:
+
+  a) You may NOT decompile, reverse-engineer, or modify the Mod,
+     except as expressly permitted by applicable law.
+  b) You may NOT redistribute the Mod's .jar files, source code,
+     or assets on any platform not listed in Section 2(e).
+  c) You may NOT publish modified versions, forks, ports, or
+     continuations of the Mod.
+  d) You may NOT extract assets (textures, sounds, logos, text)
+     for use in another project.
+  e) You may NOT sell, sublicense, or paywall the Mod itself.
+  f) You may NOT claim the Mod or its assets as your own.
+  g) You may NOT use the PureLog name or branding in a way that
+     implies official affiliation or endorsement.
+
+The fact that a Minecraft version is no longer supported, or
+that development has slowed or stopped, does NOT automatically
+grant permission to redistribute, port, or take over the Mod.
+
+4. LIABILITY
+
+THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. THE COPYRIGHT HOLDER TAKES NO RESPONSIBILITY
+FOR ANY DAMAGES ARISING FROM THE USE OR MISUSE OF THE MOD. THE
+MOD ALTERS FUNDAMENTAL PARTS OF MINECRAFT; USE AT YOUR OWN RISK.
+
+This license does not override any rights granted or restrictions
+imposed by Minecraft's End User License Agreement (EULA) or by
+the licenses of third-party dependencies included in the Mod.
+
+5. API LICENSE (SEPARATE)
+
+The packages under `de.ace.purelog.api.*` (the "API") are
+licensed under the MIT License, a copy of which is provided
+in `LICENSE-API.md`.
+
+This means:
+  - Anyone may use the API to build addons, integrations, or
+    derived works that interact with PureLog.
+  - The API is currently free to use.
+  - The copyright holder reserves the right to introduce a
+    licensing fee for FUTURE versions of the API. Existing
+    versions published under MIT remain governed by MIT.
+
+This API license does NOT extend to any other part of the Mod.
+All non-API code remains All Rights Reserved as described above.
+
+6. PERMISSION REQUESTS
+
+For permissions not covered by this license (e.g. redistribution,
+porting, asset reuse, commercial API licensing), contact the
+copyright holder via the Mod's official project page.
+
+================================================================
+END OF LICENSE
+================================================================
