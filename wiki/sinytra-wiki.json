@@ -1,0 +1,10 @@
+{
+  "schema": "1",
+  "id": "purelog",
+  "modid": "purelog",
+  "platforms": {
+    "curseforge": "1700287",
+    "modrinth": "purelog"
+  },
+  "owners": ["acefiremc"]
+}
